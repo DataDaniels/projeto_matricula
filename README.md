@@ -25,6 +25,3 @@ Empresas de todos os portes estão migrando para a nuvem em busca de escalabilid
 ✅ Estrutura pronta para receber aplicações com escalabilidade e disponibilidade.  
 ✅ Entendimento do fluxo de criação, configuração e integração de recursos na Azure Cloud.
 
-## 📸 Prints e passo a passo
-O passo a passo detalhado, com prints de cada etapa de criação da infraestrutura, está disponível em [`PASSO_A_PASSO.md`](PASSO_A_PASSO.md).
-
